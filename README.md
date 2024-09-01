@@ -31,6 +31,7 @@ To get started with AIWON:
 
 No installation required. Simply access the AIWON platform through your web browser.
 https://AIWON.vercel.app
+https://womdo.vercel.app/
 
 For running locally
 add this env file to AIWON_main:
