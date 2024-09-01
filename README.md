@@ -33,7 +33,7 @@
 
 ## Installation
 
-There’s no need to install anything. You can use AIWOM directly from your web browser at ([https://aiwom.vercel.app](https://womdo.vercel.app/)).
+There’s no need to install anything. You can use AIWOM directly from your web browser at ([https://aiwom.vercel.app](https://womdo.vercel.app/) or [https://womdo.vercel.app/](https://womdo.vercel.app/)).
 
 If you want to run AIWOM locally, you need to set up some environment variables. Create an `.env` file in the `aiwom_main` directory with these details:
 - `NEXT_PUBLIC_PROJECT_ID=<add_project_Id>`
